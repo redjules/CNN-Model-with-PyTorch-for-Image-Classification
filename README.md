@@ -1,1 +1,0 @@
-# CNN-Model-with-PyTorch-for-Image-Classification
