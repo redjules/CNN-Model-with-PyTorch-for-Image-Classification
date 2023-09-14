@@ -1,3 +1,48 @@
+# Project Description
+
+# Overview
+
+Convolutional Neural Network(CNN) is a deep learning algorithm that learns directly from data, eliminating the need for manual feature extraction. CNNs are particularly useful for the image data which helps in finding patterns in images to recognize objects.
+
+In this project, we will build a CNN model for image classification where images will be classified into classes of social security cards, driving licenses, and others. We have used PyTorch for building the model which is different than other deep learning frameworks as it uses dynamic computational graphs.  Also, PyTorch is pythonic in nature and it is built over NumPy which makes it easy to use. 
+
+If you haven't visited already, here is the previous project of the series Learn How to Build a Logistic Regression Model in PyTorch. 
+
+
+# Goal
+
+To understand the working of CNN
+
+To build a Convolutional Neural Network model to classify images into different classes in PyTorch
+
+
+# Tech Stack
+
+- Language: Python
+
+- Libraries: pytorch, pandas, matplotlib, numpy, opnecv_python_headless, torchvision
+
+
+# Data Description
+
+Dataset used in this project are images of driving license, social security, and others categorized into respective categories. The images are of different shapes and sizes which are preprocessed before modeling. 
+
+
+# Approach
+
+- Data Loading
+
+- Data Preprocessing
+
+- Resizing and scaling of the images
+
+- Encoding of the class labels
+
+- Model Building and Training
+
+- CNN model building in PyTorch 
+
+
 # Pytorch
 
 - PyTorch is an open source machine learning library for Python and is completely based on Torch. 
